@@ -7,3 +7,5 @@ if age < 18:
 	print("you are not an Adult")
 else:
 	print("you are an adult")
+
+#print("your name is", name, "and your are", age, "years old")
